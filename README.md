@@ -52,8 +52,9 @@ High user hesitation (time to purchase)
 Optimize checkout UX
 Improve trust signals (pricing, payment UX)
 Retarget abandoned users
+Focus on high ROI channels
 
-# Dashboard Preview
+# 📊 Dashboard Preview
 
 Executive Summary
 
@@ -64,5 +65,3 @@ Funnel Performance
 <img width="1288" height="904" alt="Funnel Analysis II" src="https://github.com/user-attachments/assets/d1e27c23-b91a-45f1-b432-b69f9a52a8f1" />
 
 
-Focus on high ROI channels
-📊 Dashboard Preview
